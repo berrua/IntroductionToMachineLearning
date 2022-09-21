@@ -1,4 +1,4 @@
-# Introduction To Machine Learning
+# Introduction to Machine Learning
 
 <img src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif"  width="150" height="150">
 
